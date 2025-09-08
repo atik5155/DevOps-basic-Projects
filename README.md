@@ -1,6 +1,3 @@
-# DevOps-basic-Projects
-This Repository show's my projects and practice
-
 # 🌐 Host a Static Website on AWS EC2
 
 This is my first DevOps project where I deployed a **static website** on an **AWS EC2 instance** using **Linux + Apache Web Server**.  
