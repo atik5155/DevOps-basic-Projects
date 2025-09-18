@@ -45,6 +45,13 @@ bash user_creation.sh
 
 ## 2️⃣ File Backup & Restore
 ```bash
+bash backup_restore.sh
+```
+- **Option 1 → Create a backup of /home/ec2-user/data.**
+- **Option 2 → Restore a backup from the backup directory.**
+
+## 3️⃣ Service Monitoring Script
+```bash
 service_monitor.sh
 ```
 - **Checks if Nginx is running.**
