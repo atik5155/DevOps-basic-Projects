@@ -36,7 +36,7 @@ It includes scripts for **user management, file backup & restore, service monito
 
 ## ⚙️ Scripts & Usage
 
-### 1️⃣ User Creation Script
+## 1️⃣ User Creation Script
 ```bash
 bash user_creation.sh
 ```
