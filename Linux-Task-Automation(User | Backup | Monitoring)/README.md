@@ -59,3 +59,8 @@ service_monitor.sh
 # Check Nginx every 5 minutes
 */5 * * * * /home/ec2-user/linux-automation-project/service_monitor.sh >> /home/ec2-user/service.log 2>&1
 ```
+
+## Project Outcome
+- **Created Linux automation script.**
+- **Automated user management, backep/restor,and monitoring.**
+- **Use corn job for scheduling.**
